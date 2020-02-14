@@ -9,7 +9,7 @@ The aim of this project is to explore the illicit drug market in the UK using di
 ****Update:**** There will be a poster of the project displayed in the [AI-UK conference](https://www.turing.ac.uk/ai-uk) organised by the Alan Turing Institute (March 24 and 25, 2020).
 
 ## Content
-- At the moment we are only uploading the database comprised of the NHS data, ONS data, and a provisional Local Authorities list allowing to homogenise different NHS databases. 
+- At the moment we are only uploading the database comprised of the NHS data, ONS data, and a provisional [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_England) list allowing to homogenise different NHS databases. 
 
 ## Data
 
