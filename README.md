@@ -73,29 +73,29 @@ The variables that can be recovered and homogenised from the three different ver
 
 3. Employment and Income Scale and their respective _Rank of employment/income scale_
 
-...Income Scale is the number of people who are income deprived; Employment Scale is the number of people who are employment deprived.
+   Income Scale is the number of people who are income deprived; Employment Scale is the number of people who are employment deprived.
 
-..These measures are designed to give an indication of the number of people experiencing income deprivation and employment deprivation in the local area. For example, if two areas have the same percentage of income deprived people, the larger area will be ranked as more deprived on the income scale measure because more people are experiencing the deprivation.
+   These measures are designed to give an indication of the number of people experiencing income deprivation and employment deprivation in the local area. For example, if two areas have the same percentage of income deprived people, the larger area will be ranked as more deprived on the income scale measure because more people are experiencing the deprivation.
 
 4. Extent and its respective _Rank of Extent_
 
-...Proportion of a larger area’s population living in the most deprived LSOAs in the country.
+   Proportion of a larger area’s population living in the most deprived LSOAs in the country.
  
-...This is a weighted measure of the population in the most deprived 30 per cent of all areas:⋅⋅
-... The population living in the most deprived 10 per cent of LSOAs in England receive a ‘weight’ of 1.0;⋅⋅
-...The population living in the most deprived 11 to 30 per cent of LSOAs receive a sliding weight, ranging from 0.95 for those in the eleventh percentile, to 0.05 for those in the thirtieth percentile. ⋅⋅
+   This is a weighted measure of the population in the most deprived 30 per cent of all areas:  
+   The population living in the most deprived 10 per cent of LSOAs in England receive a ‘weight’ of 1.0;  
+   The population living in the most deprived 11 to 30 per cent of LSOAs receive a sliding weight, ranging from 0.95 for those in the eleventh percentile, to 0.05 for those in the thirtieth percentile.   
 
-...The ‘extent’ scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (Higher-level areas which have no LSOAs in the most deprived 30 per cent of all areas in England have a score of zero for this summary measure.)
+   The ‘extent’ scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (Higher-level areas which have no LSOAs in the most deprived 30 per cent of all areas in England have a score of zero for this summary measure.)
  
-...The extent measure is a more sophisticated version of the proportion of LSOAs in the most deprived 10 per cent nationally measure, and is designed to avoid the sharp cut-off seen in that measure, whereby areas ranked only a single place outside the most deprived 10 per cent are not counted at all.
+   The extent measure is a more sophisticated version of the proportion of LSOAs in the most deprived 10 per cent nationally measure, and is designed to avoid the sharp cut-off seen in that measure, whereby areas ranked only a single place outside the most deprived 10 per cent are not counted at all.
 
 5. Local concentration and its respective _Rank of local concentration_
 
-...Population weighted average of the ranks of a larger area’s most deprived LSOAs that contain exactly 10% of the larger area’s population.
+   Population weighted average of the ranks of a larger area’s most deprived LSOAs that contain exactly 10% of the larger area’s population.
 
-...The ‘local concentration’ score for the larger area is ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (For the purpose of calculating the score for the larger area, LSOAs are first ranked such that the most deprived LSOA is given the rank of 32,844.)
+   The ‘local concentration’ score for the larger area is ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (For the purpose of calculating the score for the larger area, LSOAs are first ranked such that the most deprived LSOA is given the rank of 32,844.)
 
-...Similar to the proportion of LSOAs in the most deprived 10 per cent nationally and extent measures, the local concentration measure is based on only the most deprived LSOAs in the larger area, rather than on all areas. By contrast to these measures however, the local concentration measure gives additional weight to very highly deprived areas.
+   Similar to the proportion of LSOAs in the most deprived 10 per cent nationally and extent measures, the local concentration measure is based on only the most deprived LSOAs in the larger area, rather than on all areas. By contrast to these measures however, the local concentration measure gives additional weight to very highly deprived areas.
 
 
 
