@@ -11,7 +11,7 @@ The aim of this project is to explore the illicit drug market in the UK using di
 ## Content
 - At the moment we are only uploading the database comprised of the NHS data, ONS data, and a provisional [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_England) list allowing to homogenise different NHS databases.
 
-## Data
+## Database
 
 The present data was compiled from different open-source websites. Data was not altered, and was only compiled in an _ad hoc_ database for the purposes of our project.  
 
@@ -19,7 +19,14 @@ The present data was compiled from different open-source websites. Data was not 
 
 - [NHS Statistics on Drug Misuse (England only)](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-drug-misuse)
 
-- [ONS - English indices of deprivation](https://www.gov.uk/government/collections/english-indices-of-deprivation)
+- [Ministry of Housing, Communities & Local Government - English indices of deprivation (England only)](https://www.gov.uk/government/collections/english-indices-of-deprivation)
+
+**Geographical locations:**
+Up until the [Health and Social Care Act 2012](https://en.wikipedia.org/wiki/Health_and_Social_Care_Act_2012), the administrative bodies of the NHS were geographically divided into _Primary Care Trusts_ (PCTs). Before their abolition, there were 152 PCTs in England. With the Health and Social Care Act 2012, the administrative responsibilities were then passed to the [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_Englan) in England, resulting in 151 bodies.
+
+In order to have a homogenised database that comprises pre-2012 and post-2012 data, we compiled a list of both PCTs and Local Authorities, allowing us to obtain a homogenised list of 134 England zones.
+
+
 
 ## Bulletpoints for methods and objectives
 
