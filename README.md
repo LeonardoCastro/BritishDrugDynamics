@@ -13,9 +13,9 @@ The aim of this project is to explore the illicit drug market in the UK using di
 
 ## Database
 
-The present data was compiled from different open-source websites. Data was not altered, and was only compiled in an _ad hoc_ database for the purposes of our project.  
+The present data was compiled from different public websites. Data was not altered, and was only compiled in an _ad hoc_ database for the purposes of our project.  
 
-###Sources:
+### Sources:
 
 - [NHS Statistics on Drug Misuse (England only)](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-drug-misuse)
 
@@ -82,8 +82,8 @@ The variables that can be recovered and homogenised from the three different ver
    Proportion of a larger area’s population living in the most deprived LSOAs in the country.
  
    This is a weighted measure of the population in the most deprived 30 per cent of all areas:  
-   The population living in the most deprived 10 per cent of LSOAs in England receive a ‘weight’ of 1.0;  
-   The population living in the most deprived 11 to 30 per cent of LSOAs receive a sliding weight, ranging from 0.95 for those in the eleventh percentile, to 0.05 for those in the thirtieth percentile.   
+   - The population living in the most deprived 10 per cent of LSOAs in England receive a ‘weight’ of 1.0;  
+   - The population living in the most deprived 11 to 30 per cent of LSOAs receive a sliding weight, ranging from 0.95 for those in the eleventh percentile, to 0.05 for those in the thirtieth percentile.   
 
    The ‘extent’ scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (Higher-level areas which have no LSOAs in the most deprived 30 per cent of all areas in England have a score of zero for this summary measure.)
  
