@@ -1,7 +1,7 @@
 # Homogenised geographical locations
 
 The [Health and Social Care Act 2012](https://en.wikipedia.org/wiki/Health_and_Social_Care_Act_2012), abolished the _Strategic Health Areas_ ([SHAs](https://en.wikipedia.org/wiki/Strategic_health_authority)) and the _Primary Care Trusts_ ([PCTs](https://en.wikipedia.org/wiki/NHS_primary_care_trust)), which were part of the different administrative body of the NHS along the English territory. Once the Act passed, the responsibilities passed to the [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_England).
-There were 10 SHAs before their abolition (North East/West, East/West Midlands, London, Yorkishire and the Humber, East of England, South East, South Central and South West). The PCTs were more associated to a county level. 
+There were 10 SHAs before their abolition (North East/West, East/West Midlands, London, Yorkishire and the Humber, East of England, South East, South Central and South West). The PCTs were more associated to a county level.
 We created a list of administrative sites that allow to homogenise data from the PCTs and the Local Authorities. Doing so, the database timeframe spans from 2008 to 2019.
 
 We present the list for each region of England.
@@ -33,26 +33,26 @@ We present the list for each region of England.
 | 3  | Bolton PCT                                     | Bolton                       | Bolton                       |
 | 4  | Bury PCT                                       | Bury                         | Bury                         |
 | 5  | Central & Eastern Cheshire PCT                 | Cheshire East                | Cheshire                     |
-| 6  | Western Cheshire PCT                           | Cheshire West and Chester    |                              |
-| 7  | Cumbria PCT                                    | Cumbria                      | Cumbria                      |
-| 8  | Halton & St. Helens PCT                        | Halton                       | Halton & St Helens           |
+|    | Western Cheshire PCT                           | Cheshire West and Chester    |                              |
+| 6  | Cumbria PCT                                    | Cumbria                      | Cumbria                      |
+| 7  | Halton & St. Helens PCT                        | Halton                       | Halton & St Helens           |
 |    |                                                | St. Helens                   |                              |
-| 9  | Knowsley PCT                                   | Knowsley                     | Knowsley                     |
-| 10 | East Lancashire PCT                            | Lancashire                   | Lancashire                   |
+| 8  | Knowsley PCT                                   | Knowsley                     | Knowsley                     |
+| 9  | East Lancashire PCT                            | Lancashire                   | Lancashire                   |
 |    | North Lancashire PCT                           |                              |                              |
 |    | Central Lancashire PCT                         |                              |                              |
-| 11 | Liverpool PCT                                  | Liverpool                    | Liverpool                    |
-| 12 | Manchester PCT                                 | Manchester                   | Manchester                   |
-| 13 | Oldham PCT                                     | Oldham                       | Oldham                       |
-| 14 | Heywood, Middleton & Rochdale PCT              | Rochdale                     | Rochdale                     |
-| 15 | Salford PCT                                    | Salford                      | Salford                      |
-| 16 | Sefton PCT                                     | Sefton                       | Sefton                       |
-| 17 | Stockport PCT                                  | Stockport                    | Stockport                    |
-| 18 | Tameside & Glossop PCT                         | Tameside                     | Tameside & Glossop           |
-| 19 | Trafford PCT                                   | Trafford                     | Trafford                     |
-| 20 | Warrington PCT                                 | Warrington                   | Warrington                   |
-| 21 | Ashton, Leigh & Wigan PCT                      | Wigan                        | Wigan                        |
-| 22 | Wirral PCT                                     | Wirral                       | Wirral                       |
+| 10 | Liverpool PCT                                  | Liverpool                    | Liverpool                    |
+| 11 | Manchester PCT                                 | Manchester                   | Manchester                   |
+| 12 | Oldham PCT                                     | Oldham                       | Oldham                       |
+| 13 | Heywood, Middleton & Rochdale PCT              | Rochdale                     | Rochdale                     |
+| 14 | Salford PCT                                    | Salford                      | Salford                      |
+| 15 | Sefton PCT                                     | Sefton                       | Sefton                       |
+| 16 | Stockport PCT                                  | Stockport                    | Stockport                    |
+| 17 | Tameside & Glossop PCT                         | Tameside                     | Tameside & Glossop           |
+| 18 | Trafford PCT                                   | Trafford                     | Trafford                     |
+| 19 | Warrington PCT                                 | Warrington                   | Warrington                   |
+| 20 | Ashton, Leigh & Wigan PCT                      | Wigan                        | Wigan                        |
+| 21 | Wirral PCT                                     | Wirral                       | Wirral                       |
 
 **Yorkshire and the Humber**
 

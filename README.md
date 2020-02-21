@@ -31,26 +31,27 @@ In order to have a homogenised database that comprises pre-2012 and post-2012 da
 
 Data on Drug Misuse was compiled for three different cases of hospital admissions. The timeframe spans from the fiscal year 2008/2009 to the fiscal year 2018/2019. There are numbers for each Merged Location described in the [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md) file.
 
-- [1] NHS hospital finished admissions where there was a **primary diagnosis of drug related mental health and behavioural disorders**, by region and merged location.
+1. NHS hospital finished admissions where there was a **primary diagnosis of drug related mental health and behavioural disorders**, by region and merged location.
 
-- [2] NHS hospital finished admission episodes with a **primary or secondary diagnosis of drug related mental and behavioural disorders**, by region and merged location.
+2. NHS hospital finished admission episodes with a **primary or secondary diagnosis of drug related mental and behavioural disorders**, by region and merged location.
 
-- [3] NHS hospital finished admissions where a **primary diagnosis of poisoning by drugs**, by region and merged location.
+3. NHS hospital finished admissions where a **primary diagnosis of poisoning by drugs**, by region and merged location.
 
 In addition to the total number of admissions by region and merged locations from 2008 to 2019, we also have the total number of admissions by primary diagnosis and by age group. We present the data available in the following table, showing the timeframe and the geographical resolution (merged locations, regions, national)
 
 |   | Primary diagnosis  | Age group          |
 |---|--------------------|--------------------|
-|[1]| 2008-2019, national| 2008-2019, national|
-|[2]| -                  | 2008-2019, national|
-|[3]| 2012-2019, national| 2008-2019, national|
+|1. | 2008-2019, national| 2008-2019, national|
+|2. | -                  | 2008-2019, national|
+|3. | 2012-2019, national| 2008-2019, national|
 
 ### Deprivation levels:
 
-Deprivation levels in the UK have been computed since 2000. During the timeframe we are analysing (2008-2019), three different reports have been published: 2010, 2015, 2019. The 2015 and 2019 versions used the same variables, while the 2010 version differs in certain aspects. We present those elements that can be homogenise for the complete timeframe used.
+Deprivation levels in the UK have been computed since 2000. During the timeframe we are analysing (2008-2019), three different reports have been published: 2010, 2015, 2019. The 2015 and 2019 versions used the same variables, while the 2010 version differs in certain aspects. We present those elements that can be homogenised for the complete timeframe used.
+
 The 2010 version states that the results used 2008 data. This puts out the question about the time interval in which the results published are valid.
 
-The geographical resolution has the same shape as for the NHS database. Before 2012, the minimum resolution found is the PCTs. After 2012, we can find Local Authorities and Lower Layer Super Output Areas (LSOAs). From the PCTs and the Local Authorities we can reconstruct the merged locations list described at [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md).
+The geographical divisions has the same resolution as for the NHS database. Before 2012, the finest resolution found is the PCTs. After 2012, we can find Local Authorities and Lower Layer Super Output Areas (LSOAs). From the PCTs and the Local Authorities we can reconstruct the merged locations list described at [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md).
 
 The variables that can be recovered and homogenised from the three different versions are (**descriptions from the 2019 version**):
 
@@ -98,7 +99,12 @@ The variables that can be recovered and homogenised from the three different ver
    Similar to the proportion of LSOAs in the most deprived 10 per cent nationally and extent measures, the local concentration measure is based on only the most deprived LSOAs in the larger area, rather than on all areas. By contrast to these measures however, the local concentration measure gives additional weight to very highly deprived areas.
 
 
+**Usage of deprivation levels**
+The report of the 2019 version states some very interesting insights:
 
+> For example, an area can be said to have become more deprived relative to other areas if it was within the most deprived 20 per cent of areas nationally according to the IMD2015 but within the most deprived 10 per cent according to the IMD2019.
+> However, it would not necessarily be correct to state that the level of deprivation in the area has increased on some absolute scale, as it may be the case that all areas had improved, but that this area had improved more slowly than other areas and so had been ‘overtaken’ by those areas.
+> All of the Indices of Deprivation measure relative deprivation at small area level as accurately as possible, but they are not designed to provide ‘backwards’ comparability with previous iterations (2015, 2010, 2007, 2004 and 2000). However, because there is a broadly consistent methodology between the IoD2019 and previous versions, you can compare the rankings as determined at the relevant time point by each of the versions, as if comparing snapshots in time.
 
 
 ## Bulletpoints for methods and objectives
