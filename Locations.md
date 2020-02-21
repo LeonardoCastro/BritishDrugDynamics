@@ -1,6 +1,7 @@
 # Homogenised geographical locations
 
-The [Health and Social Care Act 2012](https://en.wikipedia.org/wiki/Health_and_Social_Care_Act_2012), abolished the _Primary Care Trusts_ (PCTs), which were part of the different administrative body of the NHS along the English territory. Once the Act passed, the responsibilities passed to the [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_England).
+The [Health and Social Care Act 2012](https://en.wikipedia.org/wiki/Health_and_Social_Care_Act_2012), abolished the _Strategic Health Areas_ ([SHAs](https://en.wikipedia.org/wiki/Strategic_health_authority)) and the _Primary Care Trusts_ ([PCTs](https://en.wikipedia.org/wiki/NHS_primary_care_trust)), which were part of the different administrative body of the NHS along the English territory. Once the Act passed, the responsibilities passed to the [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_England).
+There were 10 SHAs before their abolition (North East/West, East/West Midlands, London, Yorkishire and the Humber, East of England, South East, South Central and South West). The PCTs were more associated to a county level. 
 We created a list of administrative sites that allow to homogenise data from the PCTs and the Local Authorities. Doing so, the database timeframe spans from 2008 to 2019.
 
 We present the list for each region of England.

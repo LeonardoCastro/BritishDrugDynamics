@@ -22,9 +22,9 @@ The present data was compiled from different open-source websites. Data was not 
 - [Ministry of Housing, Communities & Local Government - English indices of deprivation (England only)](https://www.gov.uk/government/collections/english-indices-of-deprivation)
 
 **Geographical locations:**
-Up until the [Health and Social Care Act 2012](https://en.wikipedia.org/wiki/Health_and_Social_Care_Act_2012), the administrative bodies of the NHS were geographically divided into _Primary Care Trusts_ (PCTs). Before their abolition, there were 152 PCTs in England. With the Health and Social Care Act 2012, the administrative responsibilities were then passed to the [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_Englan) in England, resulting in 151 bodies.
+Up until the [Health and Social Care Act 2012](https://en.wikipedia.org/wiki/Health_and_Social_Care_Act_2012), the administrative bodies of the NHS was divided in _Strategic Health Areas_ ([SHAs](https://en.wikipedia.org/wiki/Strategic_health_authority)). Within these areas, we could find the _Primary Care Trusts_ ([PCTs](https://en.wikipedia.org/wiki/NHS_primary_care_trust)), which was a second division of the SHAs to cover the whole territory. Before their abolition, there were 10 SHAs and 152 PCTs covering England. With the Health and Social Care Act 2012, the administrative responsibilities were then passed to the [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_Englan) in England, resulting in 151 bodies.
 
-In order to have a homogenised database that comprises pre-2012 and post-2012 data, we compiled a list of both PCTs and Local Authorities, allowing us to obtain a homogenised list of 134 England zones.
+In order to have a homogenised database that comprises pre-2012 and post-2012 data, we compiled [a list of both PCTs and Local Authorities](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md), allowing us to obtain a homogenised list of 134 England zones.
 
 
 
