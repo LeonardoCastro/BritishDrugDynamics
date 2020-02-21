@@ -21,13 +21,13 @@ The present data was compiled from different public websites. Data was not alter
 
 - [Ministry of Housing, Communities & Local Government - English indices of deprivation (England only)](https://www.gov.uk/government/collections/english-indices-of-deprivation)
 
-**Geographical locations:**
+### Geographical locations:
 
 Up until the [Health and Social Care Act 2012](https://en.wikipedia.org/wiki/Health_and_Social_Care_Act_2012), the administrative bodies of the NHS was divided in _Strategic Health Areas_ ([SHAs](https://en.wikipedia.org/wiki/Strategic_health_authority)). Within these areas, we could find the _Primary Care Trusts_ ([PCTs](https://en.wikipedia.org/wiki/NHS_primary_care_trust)), which was a second division of the SHAs to cover the whole territory. Before their abolition, there were 10 SHAs and 152 PCTs covering England. With the Health and Social Care Act 2012, the administrative responsibilities were then passed to the [Local Authorities](https://en.wikipedia.org/wiki/Local_government_in_Englan) in England, resulting in 151 bodies.
 
 In order to have a homogenised database that comprises pre-2012 and post-2012 data, we compiled [a list of both PCTs and Local Authorities](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md), allowing us to obtain a homogenised list of 134 England zones.
 
-**NHS hospital admissions:**
+### NHS hospital admissions:
 
 Data on Drug Misuse was compiled for three different cases of hospital admissions. The timeframe spans from the fiscal year 2008/2009 to the fiscal year 2018/2019. There are numbers for each Merged Location described in the [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md) file.
 
@@ -45,7 +45,7 @@ In addition to the total number of admissions by region and merged locations fro
 |[2]| -                  | 2008-2019, national|
 |[3]| 2012-2019, national| 2008-2019, national|
 
-**Deprivation levels:**
+### Deprivation levels:
 
 Deprivation levels in the UK have been computed since 2000. During the timeframe we are analysing (2008-2019), three different reports have been published: 2010, 2015, 2019. The 2015 and 2019 versions used the same variables, while the 2010 version differs in certain aspects. We present those elements that can be homogenise for the complete timeframe used.
 The 2010 version states that the results used 2008 data. This puts out the question about the time interval in which the results published are valid.
@@ -54,7 +54,7 @@ The geographical resolution has the same shape as for the NHS database. Before 2
 
 The variables that can be recovered and homogenised from the three different versions are (descriptions from the 2019 version):
 
-1. Average rank and its respective _Rank of average rank_
+1. **Average rank** and its respective _Rank of average rank_
 
     Population weighted average of the combined ranks for the LSOAs in a larger area.
 
@@ -63,7 +63,7 @@ The variables that can be recovered and homogenised from the three different ver
     The nature of this measure – using all areas, and using ranks rather than scores – means that a highly polarised larger area would not tend to score highly, because extremely deprived and less deprived LSOAs will ‘average out’. Conversely, a larger area that is more uniformly deprived will tend to score highly on the measure.
 
 
-2. Average score and its respective _Rank of average score_
+2. **Average score** and its respective _Rank of average score_
 
    Population weighted average of the combined scores for the LSOAs in a larger area.
 
@@ -71,13 +71,13 @@ The variables that can be recovered and homogenised from the three different ver
 
    This gives a measure of the whole area covering both deprived and non-deprived areas. The main difference from the average rank measure described above is that more deprived LSOAs tend to have more ‘extreme’ scores than ranks. So highly deprived areas will not tend to average out to the same extent as when using ranks; highly polarised areas will therefore tend to score higher on the average score measure than on the average rank.
 
-3. Employment and Income Scale and their respective _Rank of employment/income scale_
+3. **Employment and Income Scale** and their respective _Rank of employment/income scale_
 
    Income Scale is the number of people who are income deprived; Employment Scale is the number of people who are employment deprived.
 
    These measures are designed to give an indication of the number of people experiencing income deprivation and employment deprivation in the local area. For example, if two areas have the same percentage of income deprived people, the larger area will be ranked as more deprived on the income scale measure because more people are experiencing the deprivation.
 
-4. Extent and its respective _Rank of Extent_
+4. **Extent** and its respective _Rank of Extent_
 
    Proportion of a larger area’s population living in the most deprived LSOAs in the country.
  
@@ -89,7 +89,7 @@ The variables that can be recovered and homogenised from the three different ver
  
    The extent measure is a more sophisticated version of the proportion of LSOAs in the most deprived 10 per cent nationally measure, and is designed to avoid the sharp cut-off seen in that measure, whereby areas ranked only a single place outside the most deprived 10 per cent are not counted at all.
 
-5. Local concentration and its respective _Rank of local concentration_
+5. **Local concentration** and its respective _Rank of local concentration_
 
    Population weighted average of the ranks of a larger area’s most deprived LSOAs that contain exactly 10% of the larger area’s population.
 
