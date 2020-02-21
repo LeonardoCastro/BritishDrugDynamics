@@ -99,12 +99,17 @@ The variables that can be recovered and homogenised from the three different ver
    Similar to the proportion of LSOAs in the most deprived 10 per cent nationally and extent measures, the local concentration measure is based on only the most deprived LSOAs in the larger area, rather than on all areas. By contrast to these measures however, the local concentration measure gives additional weight to very highly deprived areas.
 
 
-**Usage of deprivation levels**
-The report of the 2019 version states some very interesting insights:
+**Usage of deprivation levels:**
 
+The report of the 2019 version states some very interesting insights (found in the FAQs of the 2019 version).
+When talking about comparing over time:
 > For example, an area can be said to have become more deprived relative to other areas if it was within the most deprived 20 per cent of areas nationally according to the IMD2015 but within the most deprived 10 per cent according to the IMD2019.
+
 > However, it would not necessarily be correct to state that the level of deprivation in the area has increased on some absolute scale, as it may be the case that all areas had improved, but that this area had improved more slowly than other areas and so had been ‘overtaken’ by those areas.
+
 > All of the Indices of Deprivation measure relative deprivation at small area level as accurately as possible, but they are not designed to provide ‘backwards’ comparability with previous iterations (2015, 2010, 2007, 2004 and 2000). However, because there is a broadly consistent methodology between the IoD2019 and previous versions, you can compare the rankings as determined at the relevant time point by each of the versions, as if comparing snapshots in time.
+
+
 
 
 ## Bulletpoints for methods and objectives
