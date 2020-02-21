@@ -15,7 +15,7 @@ The aim of this project is to explore the illicit drug market in the UK using di
 
 The present data was compiled from different open-source websites. Data was not altered, and was only compiled in an _ad hoc_ database for the purposes of our project.  
 
-**Sources:**
+###Sources:
 
 - [NHS Statistics on Drug Misuse (England only)](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-drug-misuse)
 
@@ -29,7 +29,7 @@ In order to have a homogenised database that comprises pre-2012 and post-2012 da
 
 **NHS hospital admissions:**
 
-Data on Drug Misuse was compiled for three different cases of hospital admissions. The timeframe spans from the fiscal year 2008/2009 to the fiscal year 2018/2019. There are numbers for each Merged Location described in the [`locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md) file.
+Data on Drug Misuse was compiled for three different cases of hospital admissions. The timeframe spans from the fiscal year 2008/2009 to the fiscal year 2018/2019. There are numbers for each Merged Location described in the [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md) file.
 
 - [1] NHS hospital finished admissions where there was a **primary diagnosis of drug related mental health and behavioural disorders**, by region and merged location.
 
@@ -50,17 +50,17 @@ In addition to the total number of admissions by region and merged locations fro
 Deprivation levels in the UK have been computed since 2000. During the timeframe we are analysing (2008-2019), three different reports have been published: 2010, 2015, 2019. The 2015 and 2019 versions used the same variables, while the 2010 version differs in certain aspects. We present those elements that can be homogenise for the complete timeframe used.
 The 2010 version states that the results used 2008 data. This puts out the question about the time interval in which the results published are valid.
 
-The geographical resolution has the same shape as for the NHS database. Before 2012, the minimum resolution found is the PCTs. After 2012, we can find Local Authorities and Lower Layer Super Output Areas (LSOAs). From the PCTs and the Local Authorities we can reconstruct the merged locations list described at [`locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md).
+The geographical resolution has the same shape as for the NHS database. Before 2012, the minimum resolution found is the PCTs. After 2012, we can find Local Authorities and Lower Layer Super Output Areas (LSOAs). From the PCTs and the Local Authorities we can reconstruct the merged locations list described at [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md).
 
 The variables that can be recovered and homogenised from the three different versions are (descriptions from the 2019 version):
 
 1. Average rank and its respective _Rank of average rank_
 
-...Population weighted average of the combined ranks for the LSOAs in a larger area.
+ Population weighted average of the combined ranks for the LSOAs in a larger area.
 
-...This measure is calculated by averaging all of the LSOA ranks in each larger area after they have been population weighted. The ‘average rank’ scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (For the purpose of calculating the score for the larger area, LSOAs are ranked such that the most deprived LSOA is given the rank of 32,844.)
+ This measure is calculated by averaging all of the LSOA ranks in each larger area after they have been population weighted. The ‘average rank’ scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (For the purpose of calculating the score for the larger area, LSOAs are ranked such that the most deprived LSOA is given the rank of 32,844.)
 
-...The nature of this measure – using all areas, and using ranks rather than scores – means that a highly polarised larger area would not tend to score highly, because extremely deprived and less deprived LSOAs will ‘average out’. Conversely, a larger area that is more uniformly deprived will tend to score highly on the measure.
+ The nature of this measure – using all areas, and using ranks rather than scores – means that a highly polarised larger area would not tend to score highly, because extremely deprived and less deprived LSOAs will ‘average out’. Conversely, a larger area that is more uniformly deprived will tend to score highly on the measure.
 
 
 2. Average score and its respective _Rank of average score_
