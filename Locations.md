@@ -26,6 +26,7 @@ We present the list for each region of England.
 **North West**
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
+|----|------------------------------------------------|------------------------------|------------------------------|
 | 1  | Blackburn with Darwen Teaching Care Trust Plus | Blackburn with Darwen        | Blackburn with Darwen        |
 | 2  | Blackpool PCT                                  | Blackpool                    | Blackpool                    |
 | 3  | Bolton PCT                                     | Bolton                       | Bolton                       |
@@ -55,6 +56,7 @@ We present the list for each region of England.
 **Yorkshire and the Humber**
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
+|----|------------------------------------------------|------------------------------|------------------------------|
 | 1  | Barnsley PCT                                   | Barnsley                     | Barnsley                     |
 | 2  | Bradford & Airedale PCT                        | Bradford                     | Bradford                     |
 | 3  | Calderdale PCT                                 | Calderdale                   | Calderdale                   |
@@ -75,6 +77,7 @@ We present the list for each region of England.
 **East Midlands**
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
+|----|------------------------------------------------|------------------------------|------------------------------|
 | 1  | Derby City PCT                                 | Derby                        | Derby                        |
 | 2  | Derbyshire County PCT                          | Derbyshire                   | Derbyshire                   |
 | 3  | Leicester City PCT                             | Leicester                    | Leicester                    |
@@ -89,6 +92,7 @@ We present the list for each region of England.
 **West Midlands**
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
+|----|------------------------------------------------|------------------------------|------------------------------|
 | 1  | Birmingham East & North PCT                    | Birmingham                   | Birmingham                   |
 |    | Heart of Birmingham Teaching PCT               |                              |                              |
 |    | South Birmingham PCT                           |                              |                              |
@@ -110,6 +114,7 @@ We present the list for each region of England.
 **East of England**
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
+|----|------------------------------------------------|------------------------------|------------------------------|
 | 1  | Bedfordshire PCT                               | Bedford                      | Bedfordshire                 |
 |    |                                                | Central Bedfordshire         |                              |
 | 2  | Cambridgeshire PCT                             | Cambridgeshire               | Cambridgeshire               |
@@ -128,6 +133,7 @@ We present the list for each region of England.
 **London**
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
+|----|------------------------------------------------|------------------------------|------------------------------|
 | 1  | Barking & Dagenham PCT                         | Barking and Dagenham         | Barking and Dagenham         |
 | 2  | Barnet PCT                                     | Barnet                       | Barnet                       |
 | 3  | Bexley Care Trust                              | Bexley                       | Bexley                       |
@@ -167,6 +173,7 @@ We present the list for each region of England.
 **Note:** Before 2012, PCTs were divided in two different areas, the South East Coast SHA and the South Central SHA.
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
+|----|------------------------------------------------|------------------------------|------------------------------|
 | 1  | Brighton & Hove City PCT                       | Brighton and Hove            | Brighton and Hove            |
 | 2  | Buckinghamshire PCT                            | Buckinghamshire              | Buckinghamshire              |
 | 3  | Berkshire East PCT                             | Bracknell Forest             | East Berkshire               |
@@ -192,6 +199,7 @@ We present the list for each region of England.
 **South West**
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
+|----|------------------------------------------------|------------------------------|------------------------------|
 | 1  | Bath & North East Somerset PCT                 | Bath and North East Somerset | Bath and North East Somerset |
 | 2  | Bournemouth & Poole PCT                        | Bournemouth                  | Bornenmouth & Poole          |
 |    |                                                | Poole                        |                              |
