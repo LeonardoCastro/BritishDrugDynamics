@@ -56,20 +56,20 @@ The variables that can be recovered and homogenised from the three different ver
 
 1. Average rank and its respective _Rank of average rank_
 
- Population weighted average of the combined ranks for the LSOAs in a larger area.
+    Population weighted average of the combined ranks for the LSOAs in a larger area.
 
- This measure is calculated by averaging all of the LSOA ranks in each larger area after they have been population weighted. The ‘average rank’ scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (For the purpose of calculating the score for the larger area, LSOAs are ranked such that the most deprived LSOA is given the rank of 32,844.)
+    This measure is calculated by averaging all of the LSOA ranks in each larger area after they have been population weighted. The ‘average rank’ scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score. (For the purpose of calculating the score for the larger area, LSOAs are ranked such that the most deprived LSOA is given the rank of 32,844.)
 
- The nature of this measure – using all areas, and using ranks rather than scores – means that a highly polarised larger area would not tend to score highly, because extremely deprived and less deprived LSOAs will ‘average out’. Conversely, a larger area that is more uniformly deprived will tend to score highly on the measure.
+    The nature of this measure – using all areas, and using ranks rather than scores – means that a highly polarised larger area would not tend to score highly, because extremely deprived and less deprived LSOAs will ‘average out’. Conversely, a larger area that is more uniformly deprived will tend to score highly on the measure.
 
 
 2. Average score and its respective _Rank of average score_
 
-...Population weighted average of the combined scores for the LSOAs in a larger area.
+   Population weighted average of the combined scores for the LSOAs in a larger area.
 
-...The average score summary measure is calculated by averaging the LSOA scores in each larger area after they have been population weighted. The resultant scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score.
+   The average score summary measure is calculated by averaging the LSOA scores in each larger area after they have been population weighted. The resultant scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score.
 
-...This gives a measure of the whole area covering both deprived and non-deprived areas. The main difference from the average rank measure described above is that more deprived LSOAs tend to have more ‘extreme’ scores than ranks. So highly deprived areas will not tend to average out to the same extent as when using ranks; highly polarised areas will therefore tend to score higher on the average score measure than on the average rank.
+   This gives a measure of the whole area covering both deprived and non-deprived areas. The main difference from the average rank measure described above is that more deprived LSOAs tend to have more ‘extreme’ scores than ranks. So highly deprived areas will not tend to average out to the same extent as when using ranks; highly polarised areas will therefore tend to score higher on the average score measure than on the average rank.
 
 3. Employment and Income Scale and their respective _Rank of employment/income scale_
 
