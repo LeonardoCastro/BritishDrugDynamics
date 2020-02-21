@@ -52,7 +52,7 @@ The 2010 version states that the results used 2008 data. This puts out the quest
 
 The geographical resolution has the same shape as for the NHS database. Before 2012, the minimum resolution found is the PCTs. After 2012, we can find Local Authorities and Lower Layer Super Output Areas (LSOAs). From the PCTs and the Local Authorities we can reconstruct the merged locations list described at [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md).
 
-The variables that can be recovered and homogenised from the three different versions are (descriptions from the 2019 version):
+The variables that can be recovered and homogenised from the three different versions are (**descriptions from the 2019 version**):
 
 1. **Average rank** and its respective _Rank of average rank_
 
