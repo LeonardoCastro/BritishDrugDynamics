@@ -20,6 +20,8 @@ We use the topology described in [`locations.md`](https://github.com/LeonardoCas
 
 We also include a `deprecated/` directory with files containing the same information.
 
+**Source:** Finished NHS admissions data is available in the [NHS Statistics on Drug Misuse (England only)](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-drug-misuse).
+
 ## Demographic data
 
 We include the **population data in England from 2009 to 2019**. File [`population_England_and_regions.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/demographic/population_England_and_regions.csv) contains data for England and its nine regions, being these:
@@ -50,3 +52,9 @@ We also include a [`locations.csv`](https://github.com/LeonardoCastro/BritishDru
 **Source:** All `geojson` files were processed with datasets from the [ONS](https://geoportal.statistics.gov.uk/search?collection=Document&sort=name&tags=all(MAP_ADM)).
 
 **Current problems:** The size of the three `geojson` files are too big to display in github and github pages.
+
+## Missing data
+
+- Deprivation levels
+- Police force levels
+- travel time from one local authority to another
