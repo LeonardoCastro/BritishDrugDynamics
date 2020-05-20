@@ -8,7 +8,7 @@ We split drugs usage data depending on the geographical resolution.
 
 - NHS finished admissions (three types) in England (2009-2019) in [`admissions_England.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/admissions_England.csv).
 - NHS finished admissions (three types) per 100k capita in England (2009-2019) in [`admissions_100k_England.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/admissions_100k_England.csv).
-- Time series by age group in England (2009-2019) for [primary](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/primary_age.csv), [secondary](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/secondary_age.csv) and [misuse](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/misuse.csv) admissions.
+- Time series by age group in England (2009-2019) for [primary](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/primary_age.csv), [secondary](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/secondary_age.csv) and [misuse](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/misuse_age.csv) admissions.
 - Primary diagnoses for [misuse admissions](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/misuse_diagnoses.csv) (2013-2019) and for [primary admissions](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/national_resolution/primary_diagnoses.csv) (2009-2019).
 
 ### Local resolution
@@ -41,8 +41,8 @@ On the other hand, file [`population_la.csv`](https://github.com/LeonardoCastro/
 
 We include three different `geojson` files with a `name` property and a `geometry`.
 The `geojson` files correspond to:
-- `[England_regions.geojson`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/geographic/England_regions.geojson): 9 regions of England (see above for the names of them).
-- [`England_couties.geojson`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/geographic/England_couties.geojson): topology chosen as in [`locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md).
+- [`England_regions.geojson`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/geographic/England_regions.geojson): 9 regions of England (see above for the names of them).
+- [`England_counties.geojson`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/geographic/England_counties.geojson): topology chosen as in [`locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md).
 - [`Scotland_Wales.geojson`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/geographic/Scotland_Wales.geojson): Local authorities of Scotland and Wales to complement any map.
 
 We also include a [`locations.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/geographic/locations.csv), which is a simil to [`locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md) in a `csv` format.
