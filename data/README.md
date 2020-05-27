@@ -22,6 +22,19 @@ We also include a `deprecated/` directory with files containing the same informa
 
 **Source:** Finished NHS admissions data is available in the [NHS Statistics on Drug Misuse (England only)](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-drug-misuse).
 
+## Police data
+
+Police forces publish an important number of data each year. In this case, we are interested in data related to illicit drugs activities. At this moment, we have collected the reported seizures involving illicit drugs with local polices resolution per year. Respectively, we have also collected the total amount of drugs captured in seizures over the whole fiscal year. 
+
+Drugs are classified in three different classes according to the Misuse of Drugs Act 1971. Drugs can be included and reclassified over time. The most important ones for this study are:
+- Class A: Cocaine (kg), Crack (kg), Ecstasy (doses), Heroin (kg), LSD (doses), Methadone (doses), Morphine (doses).
+- Class B: Herbal Cannabis (kg), Cannabis Resin (kg), Cannabis Plants (plants), Amphetamines (kg), Barbiturates (doses).
+- Class C: Anabolic steroids (kg), Benzodiazephines (doses), GHB (doses), Ketamine (kg), Temazepam (doses).
+
+The (kg) or (dose) is the unit used by the police to measure the quantity seized.
+
+**Source:** [Home Office](https://www.gov.uk/government/collections/seizures-of-drugs-in-england-and-wales) and [data.police.gov.uk](https://data.police.uk/).
+
 ## Demographic data
 
 We include the **population data in England from 2009 to 2019**. File [`population_England_and_regions.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/demographic/population_England_and_regions.csv) contains data for England and its nine regions, being these:
