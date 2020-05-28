@@ -24,6 +24,8 @@ We also include a `deprecated/` directory with files containing the same informa
 
 ## Police data
 
+### Drug related data
+
 Police forces publish an important number of data each year. In this case, we are interested in data related to illicit drugs activities. At this moment, we have collected the reported seizures involving illicit drugs with local polices resolution per year. Respectively, we have also collected the total amount of drugs captured in seizures over the whole fiscal year. 
 
 Drugs are classified in three different classes according to the Misuse of Drugs Act 1971. Drugs can be included and reclassified over time. The most important ones for this study are:
@@ -34,6 +36,13 @@ Drugs are classified in three different classes according to the Misuse of Drugs
 The (kg) or (dose) is the unit used by the police to measure the quantity seized.
 
 **Source:** [Home Office](https://www.gov.uk/government/collections/seizures-of-drugs-in-england-and-wales) and [data.police.gov.uk](https://data.police.uk/).
+
+### Police workforce data
+
+We also include the mean and standard deviation of police officers over each year from fiscal years 2008-2009 to 2018-2019. [data.police.gov.uk](https://data.police.uk/) publishes twice a year a report about the 45 police forces acting in England and Wales. We compiled a time series of the active officers from the start to the end of a specific year, for 41 forces acting in England. 
+
+**Source:** [Home Office](https://www.gov.uk/government/collections/police-workforce-england-and-wales)
+
 
 ## Demographic data
 
