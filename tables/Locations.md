@@ -7,7 +7,7 @@ We created a list of administrative sites that allow to homogenise data from the
 We present the list for each region of England.
 
 
-**North East**
+## North East
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
 |----|------------------------------------------------|------------------------------|------------------------------|
@@ -24,7 +24,7 @@ We present the list for each region of England.
 | 11 | North Tees PCT                                 | Stockton-on-Tees             | Stockton-on-Tees/North Tees  |
 | 12 | Sunderland Teaching PCT                        | Sunderland                   | Sunderland                   |
 
-**North West**
+## North West
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
 |----|------------------------------------------------|------------------------------|------------------------------|
@@ -54,7 +54,7 @@ We present the list for each region of England.
 | 20 | Ashton, Leigh & Wigan PCT                      | Wigan                        | Wigan                        |
 | 21 | Wirral PCT                                     | Wirral                       | Wirral                       |
 
-**Yorkshire and the Humber**
+## Yorkshire and the Humber
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
 |----|------------------------------------------------|------------------------------|------------------------------|
@@ -75,7 +75,7 @@ We present the list for each region of England.
 | 14 | Wakefield District PCT                         | Wakefield                    | Wakefield                    |
 
 
-**East Midlands**
+## East Midlands
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
 |----|------------------------------------------------|------------------------------|------------------------------|
@@ -90,7 +90,7 @@ We present the list for each region of England.
 | 8  | Nottinghamshire County PCT                     | Nottinghamshire              | Nottinghamshire              |
 |    | Bassetlaw PCT                                  |                              |                              |
 
-**West Midlands**
+## West Midlands
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
 |----|------------------------------------------------|------------------------------|------------------------------|
@@ -112,7 +112,7 @@ We present the list for each region of England.
 | 13 | Wolverhampton City PCT                         | Wolverhampton                | Wolverhampton                |
 | 14 | Worcestershire PCT                             | Worcestershire               | Worcestershire               |
 
-**East of England**
+## East of England
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
 |----|------------------------------------------------|------------------------------|------------------------------|
@@ -131,7 +131,7 @@ We present the list for each region of England.
 | 7  | Peterborough PCT                               | Peterborough                 | Peterborough                 |
 | 8  | Suffolk PCT                                    | Suffolk                      | Suffolk                      |
 
-**London**
+## London
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
 |----|------------------------------------------------|------------------------------|------------------------------|
@@ -169,7 +169,7 @@ We present the list for each region of England.
 | 30 | Wandsworth PCT                                 | Wandsworth                   | Wandsworth                   |
 | 31 | Westminster PCT                                | Westminster                  | Westminster                  |
 
-**South East**
+## South East
 
 **Note:** Before 2012, PCTs were divided in two different areas, the South East Coast SHA and the South Central SHA.
 
@@ -197,7 +197,7 @@ We present the list for each region of England.
 | 14 | Berkshire West PCT                             | West Berkshire               | West Berkshire               |
 | 15 | West Sussex PCT                                | West Sussex                  | West Sussex                  |
 
-**South West**
+## South West
 
 | ﻿   | PCT                                 | Local Authority                  | Merged location                   |
 |----|------------------------------------------------|------------------------------|------------------------------|

@@ -29,7 +29,7 @@ In order to have a homogenised database that comprises pre-2012 and post-2012 da
 
 ### NHS hospital admissions:
 
-Data on Drug Misuse was compiled for three different cases of hospital admissions. The timeframe spans from the fiscal year 2008/2009 to the fiscal year 2018/2019. There are numbers for each Merged Location described in the [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/Locations.md) file.
+Data on Drug Misuse was compiled for three different cases of hospital admissions. The timeframe spans from the fiscal year 2008/2009 to the fiscal year 2018/2019. There are numbers for each Merged Location described in the [`Locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Locations.md) file.
 
 1. NHS hospital finished admissions where there was a **primary diagnosis of drug related mental health and behavioural disorders**, by region and merged location.
 
