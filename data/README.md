@@ -59,7 +59,9 @@ We include the **population data in England from 2009 to 2019**. File [`populati
 - West Midlands
 - Yorkshire and the Humber
 
-On the other hand, file [`population_la.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/demographic/population_la.csv) contains data for the chosen topology of local authorities described in [`locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Locations.md).
+File [`population_la.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/demographic/population_la.csv) contains data for the chosen topology of local authorities described in [`locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Locations.md).
+
+File [`population_policeforces.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/demographic/population_policeforces.csv) contains the population from 2009 to 2019 for the regions covering the 39 different local police forces in England. The list of police forces and how they relate to the topology discussed above is found in file [`Police_forces.md`]((https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Police_forces.md))
 
 **Source:** All population data is obtained from the [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland).
 

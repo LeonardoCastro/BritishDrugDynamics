@@ -1,12 +1,12 @@
 # Local police forces and local authorities
 
 England is divided en 41 different police forces clustering metropolitan and non-metropolitan authorities. In the following tables,
-we present how these police forces are conformed with respect to the [topology used in this work]((https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Locations.md)). 
+we present how these police forces are conformed with respect to the [topology used in this work]((https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Locations.md)).
 
 
 ## North East
 
-| ﻿   | Police Force          | Used Local Authority |
+| ﻿   | Police Force          | Merged Location      |
 |----|-----------------------|----------------------|
 | ﻿1  | Cleveland             | Hartlepool           |
 | ﻿2  |                       | Middlesbrough        |
@@ -23,7 +23,7 @@ we present how these police forces are conformed with respect to the [topology u
 
 ## North West
 
-| ﻿   | Police Force       | Used Local Authority  |
+| ﻿   | Police Force       | Merged Location       |
 |----|--------------------|-----------------------|
 | ﻿1  | Chesire            | Cheshire              |
 | ﻿2  |                    | Halton and St. Helens*|
@@ -49,7 +49,7 @@ we present how these police forces are conformed with respect to the [topology u
 
 ## Yorkshire and the Humber
 
-| ﻿   | Police Force    | Used Local Authority         |
+| ﻿   | Police Force    | Merged Location              |
 |----|-----------------|------------------------------|
 | ﻿1  | Humberside      | East Riding of Yorkshire     |
 | ﻿2  |                 | Kingston upon Hull, City of  |
@@ -69,7 +69,7 @@ we present how these police forces are conformed with respect to the [topology u
 
 ## East Midlands
 
-| ﻿   | Police Force     | Used Local Authority         |
+| ﻿   | Police Force     | Merged Location              |
 |----|------------------|------------------------------|
 | 1  | Derbyshire       | Derby                        |
 | 2  |                  | Derbyshire                   |
@@ -82,7 +82,7 @@ we present how these police forces are conformed with respect to the [topology u
 
 ## West Midlands
 
-| ﻿   | Police Force   | Used Local Authority         |
+| ﻿   | Police Force   | Merged Location              |
 |----|----------------|------------------------------|
 | 1  | Staffordshire  | Staffordshire                |
 | 2  |                | Stoke-on-Trent               |
@@ -102,7 +102,7 @@ we present how these police forces are conformed with respect to the [topology u
 
 ## East of England
 
-| ﻿   | Police Force    | Used Local Authority |
+| ﻿   | Police Force    | Merged Location      |
 |----|-----------------|----------------------|
 | 1  | Bedfordshire    | Bedfordshire         |
 | 2  |                 | Luton                |
@@ -115,7 +115,7 @@ we present how these police forces are conformed with respect to the [topology u
 
 ## London
 
-| ﻿   | Police Force         | Used Local Authority         |
+| ﻿   | Police Force         | Merged Location              |
 |----|----------------------|------------------------------|
 | 1  | City of London       | City of London and Hackney*  |
 | 2  | Metropolitan Police  | Barking and Dagenham         |
@@ -152,7 +152,7 @@ we present how these police forces are conformed with respect to the [topology u
 
 ## South East
 
-| ﻿   | Police Force   | Used Local Authority |
+| ﻿   | Police Force   | Merged Location      |
 |----|----------------|----------------------|
 | 1  | Hampshire      | Hampshire            |
 | 2  |                | Isle of Wight        |
@@ -172,7 +172,7 @@ we present how these police forces are conformed with respect to the [topology u
 
 ## South West
 
-| ﻿   | Police Force       | Used Local Authority         |
+| ﻿   | Police Force       | Merged Location              |
 |----|--------------------|------------------------------|
 | 1  | Avon and Somerset  | Bath and North East Somerset |
 | 2  |                    | Bristol, City of             |
@@ -187,6 +187,4 @@ we present how these police forces are conformed with respect to the [topology u
 | 11 |                    | Dorset                       |
 | 12 | Gloucestershire    | Gloucestershire              |
 | 13 | Wiltshire          | Swindon                      |
-| 14 |                    | Wiltshire                    |
-| 15 | Torbay Care Trust  | Torbay                       |
-| 16 | Wiltshire PCT      | Wiltshire                    |
+| 14 |                    | Wiltshire                    | 
