@@ -43,7 +43,7 @@ Another important aspect that we have included is [the details about the size of
 
 We also include the [mean](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/local_resolution/workforce/workforce_mean.csv) and [standard deviation](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/local_resolution/workforce/workforce_std.csv) of police officers over each year from fiscal years 2009-2010 to 2018-2019. [data.police.gov.uk](https://data.police.uk/) publishes twice a year a report about the 45 police forces acting in England and Wales. We compiled a time series of the active officers from the start to the end of a specific year, for 41 forces acting in England.
 
-We have also included a separate file including [the workforce for England and its nine regions from 2010 to 2019](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/national_resolution/workforce/workforce_mean.csv).
+We have also included a separate file including [the workforce for England and its nine regions from 2010 to 2019](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/national_resolution/workforce_mean.csv) and its [standard deviation](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/national_resolution/workforce_std.csv).
 
 **Note:** We have not included any standard deviation for the fiscal year 2008-2009 as there is no published data about that year. However, we included the number of active officers by March 2009.
 
@@ -89,6 +89,5 @@ We also include a [`locations.csv`](https://github.com/LeonardoCastro/BritishDru
 
 - Deprivation levels
 - time series for arrests related to drugs
-- population in areas of police forces
 - quality index for NHS hospitals (# of beds)
 - travel time from one local authority to another
