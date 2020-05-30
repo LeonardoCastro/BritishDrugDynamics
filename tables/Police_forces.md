@@ -47,6 +47,8 @@ we present how these police forces are conformed with respect to the [topology u
 | ﻿20 |                    | Sefton                |
 | ﻿21 |                    | Wirral                |
 
+**Note:** St. Helens is not part of the Cheshire Police, but it is part of the Merseyside Police area. This is considered for the population computations.
+
 ## Yorkshire and the Humber
 
 | ﻿   | Police Force    | Merged Location              |
@@ -149,6 +151,7 @@ we present how these police forces are conformed with respect to the [topology u
 | 30 |                      | Wandsworth                   |
 | 31 |                      | Westminster                  |
 
+**Note:** Hackney is not part of the City of London Police, but it is part of the Metropolitan Police area. This is considered for the population computations.
 
 ## South East
 
@@ -187,4 +190,4 @@ we present how these police forces are conformed with respect to the [topology u
 | 11 |                    | Dorset                       |
 | 12 | Gloucestershire    | Gloucestershire              |
 | 13 | Wiltshire          | Swindon                      |
-| 14 |                    | Wiltshire                    | 
+| 14 |                    | Wiltshire                    |

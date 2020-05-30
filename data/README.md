@@ -35,11 +35,15 @@ Drugs are classified in three different classes according to the Misuse of Drugs
 
 The (kg) or (dose) is the unit used by the police to measure the quantity seized.
 
+Another important aspect that we have included is [the details about the size of the seizures, by kg, doses or plants, from 2010 to 2019](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/national_resolution/weights_EW). These files are for England and Wales as a whole.
+
 **Source:** [Home Office](https://www.gov.uk/government/collections/seizures-of-drugs-in-england-and-wales) and [data.police.gov.uk](https://data.police.uk/).
 
 ### Police workforce data
 
-We also include the [mean](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/workforce/workforce_mean.csv) and [standard deviation](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/workforce/workforce_std.csv) of police officers over each year from fiscal years 2009-2010 to 2018-2019. [data.police.gov.uk](https://data.police.uk/) publishes twice a year a report about the 45 police forces acting in England and Wales. We compiled a time series of the active officers from the start to the end of a specific year, for 41 forces acting in England.
+We also include the [mean](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/local_resolution/workforce/workforce_mean.csv) and [standard deviation](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/local_resolution/workforce/workforce_std.csv) of police officers over each year from fiscal years 2009-2010 to 2018-2019. [data.police.gov.uk](https://data.police.uk/) publishes twice a year a report about the 45 police forces acting in England and Wales. We compiled a time series of the active officers from the start to the end of a specific year, for 41 forces acting in England.
+
+We have also included a separate file including [the workforce for England and its nine regions from 2010 to 2019](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/data/police_data/national_resolution/workforce/workforce_mean.csv).
 
 **Note:** We have not included any standard deviation for the fiscal year 2008-2009 as there is no published data about that year. However, we included the number of active officers by March 2009.
 
@@ -61,7 +65,7 @@ We include the **population data in England from 2009 to 2019**. File [`populati
 
 File [`population_la.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/demographic/population_la.csv) contains data for the chosen topology of local authorities described in [`locations.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Locations.md).
 
-File [`population_policeforces.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/demographic/population_policeforces.csv) contains the population from 2009 to 2019 for the regions covering the 39 different local police forces in England. The list of police forces and how they relate to the topology discussed above is found in file [`Police_forces.md`]((https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Police_forces.md))
+File [`population_policeforces.csv`](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/demographic/population_policeforces.csv) contains the population from 2009 to 2019 for the regions covering the 39 different local police forces in England. The list of police forces and how they relate to the topology discussed above is found in file [`Police_forces.md`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Police_forces.md)
 
 **Source:** All population data is obtained from the [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland).
 
