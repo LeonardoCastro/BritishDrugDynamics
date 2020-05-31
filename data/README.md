@@ -20,7 +20,6 @@ We use the topology described in [`locations.md`](https://github.com/LeonardoCas
 - Time series (2009-2019) for [primary](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/hospital_admissions/local_resolution/primary.csv), [secondary](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/hospital_admissions/local_resolution/secondary.csv) and [misuse](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/hospital_admissions/local_resolution/misuse.csv) admissions.
 - Time series (2009-2019) for [primary](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/hospital_admissions/local_resolution/primary_100k.csv), [secondary](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/hospital_admissions/local_resolution/secondary_100k.csv) and [misuse](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/hospital_admissions/local_resolution/misuse_100k.csv) admissions per 100k capita.
 
-We also include a `deprecated/` directory with files containing the same information.
 
 **Source:** Finished NHS admissions data is available in the [NHS Statistics on Drug Misuse (England only)](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-drug-misuse).
 
@@ -43,6 +42,8 @@ We use the topology described in [`locations.md`](https://github.com/LeonardoCas
 
 - Time series (2009-2018) for deaths related to drug poisoning, in [total numbers](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/deaths/local_resolution/deaths_poisoning.csv) and in [deaths per 100k inhabitants](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/deaths/local_resolution/deaths_poisoning_100k.csv).
 - Time series (2009-2018) for deaths related to drug misuse, in [total numbers](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/deaths/local_resolution/deaths_misuse.csv) and in [deaths per 100k inhabitants](https://github.com/LeonardoCastro/BritishDrugDynamics/tree/master/data/drugs_usage/deaths/local_resolution/deaths_misuse_100k.csv).
+
+**Source:** The [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2018registrations)
 
 ## Police data
 
