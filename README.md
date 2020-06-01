@@ -1,4 +1,5 @@
-# Discovering dynamics of the illicit drug market in England
+# Mapping the illicit drug market in England: a data-centric approach
+
 
 **Authors**: [Leonardo Castro-Gonzalez](https://leonardocastro.github.io/about/) (UoB/ATI), [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna)) and Prof. [Weisi Guo](https://www.weisiguo.com/cv) ([Cranfield](https://www.cranfield.ac.uk/people/professor-weisi-guo-24667823)/[ATI](https://www.turing.ac.uk/people/researchers/weisi-guo))
 
