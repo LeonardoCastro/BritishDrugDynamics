@@ -14,7 +14,7 @@ This repository serves a public database for the project. All data is included i
 
 In order to homogenise the geographic analysis with the resolution used by government data, we created our own division of England based. This division (or topology) of England can be seen in the directory [`tables`](https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables).
 
-*: Geographic data (`.geojson` files) are at the moment not present in the repository, as the files are too large (>250mb). Because of [GitHub large files management](https://help.github.com/en/github/managing-large-files/working-with-large-files), we are not uploading it until a better solution is found.
+*: Geographic data (`.geojson` files) is at the moment not present in the repository, as the files are too large (>250mb). Because of [GitHub large files management](https://help.github.com/en/github/managing-large-files/working-with-large-files), we are not uploading it until a better solution is found.
 
 ## License and sources
 
