@@ -1,7 +1,7 @@
 # Mapping the illicit drug market in England: a data-centric approach
 
 
-**Authors**: [Leonardo Castro-Gonzalez](https://leonardocastro.github.io/about/) (UoB/ATI), [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna)) and Prof. [Weisi Guo](https://www.weisiguo.com/cv) ([Cranfield](https://www.cranfield.ac.uk/people/professor-weisi-guo-24667823)/[ATI](https://www.turing.ac.uk/people/researchers/weisi-guo))
+**Authors**: [Leonardo Castro-Gonzalez](https://leonardocastro.github.io/about/) (UoB/ATI), Prof. [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna)) and Prof. [Weisi Guo](https://www.weisiguo.com/cv) ([Cranfield](https://www.cranfield.ac.uk/people/professor-weisi-guo-24667823)/[ATI](https://www.turing.ac.uk/people/researchers/weisi-guo))
 
 **Update:** A virtual poster will be presented at the [AI UK Conference | 2020 Digital poster exhibition](https://www.turing.ac.uk/events/ai-uk-2020-digital-poster-exhibition) on the 2nd of June, 2020. The poster was going to be presented at the [AI UK Conference](https://www.turing.ac.uk/ai-uk) (24 - 25 March, 2020) before it was postponed.
 
