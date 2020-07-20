@@ -1,6 +1,6 @@
 # Local police forces and local authorities
 
-England is divided en 41 different police forces clustering metropolitan and non-metropolitan authorities. In the following tables,
+England is divided in 39 different police forces clustering metropolitan and non-metropolitan authorities. In the following tables,
 we present how these police forces are conformed with respect to the [topology used in this work]((https://github.com/LeonardoCastro/BritishDrugDynamics/blob/master/tables/Locations.md)).
 
 
